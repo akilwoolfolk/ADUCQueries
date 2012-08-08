@@ -10,7 +10,17 @@ xml\AllUsers.xml - All user accounts in the domain
 
 xml\AllWindowsServers.xml - All Windows Servers in the domain  
 
-xml\DisabledUserAccounts.xml - Disabled user accounts  
+xml\BuiltinAdministrators.xml - Built-in Administrators group membership  
+
+xml\DisabledUserAccounts.xml - Disabled user accounts for the domain  
+
+xml\DomainAdmins.xml - Domain Admins group membership  
+
+xml\EnabledUserAccounts.xml - Enabled user accounts for the domain  
+
+xml\EnterpriseAdmins.xml - Enterprise Admins group membership  
+
+xml\SchemaAdmins.xml - Schema Admins group membership  
 
 xml\Windows2000AdvancedServers.xml - Windows 2000 Advanced Servers  
 
