@@ -2,37 +2,9 @@ README
 
 ADUCQueries is a repository for queries that can be loaded into Active Directory Users and Computers on a Microsoft Windows Server.
 
-File list for the queries in the repository
+xml directory - contains the XML files to import into Active Directory Users and Computers  
 
-xml\AllGroups.xml - All groups in the domain  
+Instructions:  
 
-xml\AllUsers.xml - All user accounts in the domain  
-
-xml\AllWindowsServers.xml - All Windows Servers in the domain  
-
-xml\BuiltinAdministrators.xml - Built-in Administrators group membership  
-
-xml\DisabledUserAccounts.xml - Disabled user accounts for the domain  
-
-xml\DomainAdmins.xml - Domain Admins group membership  
-
-xml\EnabledUserAccounts.xml - Enabled user accounts for the domain  
-
-xml\EnterpriseAdmins.xml - Enterprise Admins group membership  
-
-xml\SchemaAdmins.xml - Schema Admins group membership  
-
-xml\Windows2000AdvancedServers.xml - Windows 2000 Advanced Servers  
-
-xml\Windows2000Servers.xml - Windows 2000 Servers  
-
-xml\Windows2003Servers.xml - Windows 2003 Servers  
-
-xml\Windows2008Servers.xml - Windows 2008 Servers  
-
-xml\Windows7Computers.xml - Windows 7 Computers  
-
-xml\WindowsNTServers.xml - Windows NT Servers  
-
-xml\WindowsXPProComputers.xml - Windows XP Pro Computers
+To import, open Active Directory Users and Computers, right-click on Saved Queries and select Import Query Definition.
 
